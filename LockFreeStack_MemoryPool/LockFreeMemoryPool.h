@@ -28,6 +28,7 @@
 #define __LOCK_FREE_MEMORY_POOL_H__
 
 #include <windows.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
 #include <new>
