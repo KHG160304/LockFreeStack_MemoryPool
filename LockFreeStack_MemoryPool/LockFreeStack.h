@@ -1,5 +1,6 @@
 #pragma once
 #ifndef __LOCK_FREE_STACK_H__
+#define	__LOCK_FREE_STACK_H__
 #include "LockFreeMemoryPool.h"
 #include <stdint.h>
 
